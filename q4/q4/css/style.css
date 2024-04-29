@@ -1,1 +1,42 @@
 @charset "UTF-8";
+.box {
+	display: table;
+	width: 100%;
+}
+.box1 {
+	display: flex;
+}
+.text {
+	display: table-cell;
+	text-align: center;
+	padding: 20px;
+}
+.red {
+	width: 300px;
+	background-color: #ff7b7b;
+}
+.purple {
+	background-color: #7b86ff;
+}
+.yellow {
+	width: 300px;
+	background-color: #fff27b;
+}
+.box2 {
+	display: flex;
+	margin-top: 50px;
+}
+.green {
+	background-color: #7bff91;
+}
+.pink {
+	width: 400px;
+	background-color: #ff7be2;
+}
+.brown {
+	width: 400px;
+	background-color: #ffc67b;
+}
+.blue {
+	background-color: #7bf2ff;
+}

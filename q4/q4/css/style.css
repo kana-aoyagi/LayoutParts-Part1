@@ -2,9 +2,7 @@
 .box {
 	display: table;
 	width: 100%;
-}
-.box1 {
-	display: flex;
+	margin-top: 50px;
 }
 .text {
 	display: table-cell;
@@ -21,10 +19,6 @@
 .yellow {
 	width: 300px;
 	background-color: #fff27b;
-}
-.box2 {
-	display: flex;
-	margin-top: 50px;
 }
 .green {
 	background-color: #7bff91;
